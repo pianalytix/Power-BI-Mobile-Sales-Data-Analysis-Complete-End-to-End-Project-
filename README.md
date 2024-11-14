@@ -23,10 +23,6 @@ Follow along with the full tutorial on YouTube to build this dashboard from scra
 
 [Watch on YouTube: Mobile Sales Data Analysis Power BI Project](https://youtu.be/bMo3yoZyEE0?si=FIjnCWNGLaOzPBU3)
 
-Or view it directly here:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bMo3yoZyEE0?si=FIjnCWNGLaOzPBU3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## Getting Started
 
 Clone or fork this repository to follow along with the tutorial. This project is designed for Power BI users at any level looking to create professional mobile sales data visualizations.
